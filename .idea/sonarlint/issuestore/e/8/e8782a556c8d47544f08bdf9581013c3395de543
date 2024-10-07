@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÏÎ«úÿÿÿÿ8¶ğâ”¤2J$f8a91223-6cbd-4e28-9cd2-e46b6426b79b
+Œ
+java:S1128"IRemove this unused import 'org.apache.kafka.common.protocol.types.Field'.(Ì“„8Ãğâ”¤2J$e2ed6059-1972-4f4c-8b86-3e30b983283a
+t
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8Ãğâ”¤2J$e4051dd3-8dad-4920-a5b9-eb1cc845ca9a
+r
+java:S1068"*Remove this unused "LOGGER" private field.(¬—±úÿÿÿÿ8Ãğâ”¤2J$f060ff06-be17-42c1-a1e3-759ff81cfd05
